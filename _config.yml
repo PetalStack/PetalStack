@@ -1,0 +1,41 @@
+title: Petal Stack
+email: your-email@domain.com
+description: ""
+
+people:
+- name: João Henrique
+  pic: joaohenrique
+  position: Lead Developer
+  social:
+    - title: twitter
+      url: https://twitter.com/joaohenriquepda
+    - title: facebook
+      url: https://www.facebook.com/joaohenriquepda
+    - title: linkedin
+      url: https://www.linkedin.com/in/joaohenriquepda
+    - title: github
+      url: https://github.com/joaohenriquepda
+
+# - name:
+#   pic:
+#   position:
+#   social:
+#     - title: twitter
+#       url: #
+#     - title: facebook
+#       url: #
+#     - title: linkedin
+#       url: #
+
+
+social:
+  - title: twitter
+    url:
+  - title: facebook
+    url:
+  - title: stack-overflow
+    url:
+  - title: bitbucket
+    url:
+  - title: github
+    url: https://github.com/PetalStack
